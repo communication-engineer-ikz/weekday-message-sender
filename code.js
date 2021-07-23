@@ -1,3 +1,8 @@
+function getWebhookURL() {
+
+    return "$Slack Income WebhookUrl";
+}
+
 const today = new Date();
 
 function setStartActivities() {
